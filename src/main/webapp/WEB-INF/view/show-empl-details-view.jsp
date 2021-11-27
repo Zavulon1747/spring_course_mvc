@@ -4,7 +4,8 @@
 <body>
 
 <h2>
-    Welcome, ${param.employeeName}
+<%--    Welcome, ${param.employeeName}--%>
+    Your name: ${nameAttribute} ${description}
 </h2>
 
 </body>
